@@ -89,4 +89,6 @@ footer{
 .btn {
   border-radius: 5px;
   color: #FFFFFF;
-  background-color: }
+  background-color: #007bff;
+  border-color: #007bff;
+}
